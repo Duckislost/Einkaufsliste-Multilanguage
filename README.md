@@ -3,3 +3,4 @@
 - Kaffee
 - Tee
 - Bohnen
+- Eier
